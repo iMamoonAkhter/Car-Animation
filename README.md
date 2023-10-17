@@ -1,6 +1,6 @@
 # Car Animation
 
-![Demo](DEMO.jpg)
+![Demo](DEMO.png)
 
 ## Introduction
 
